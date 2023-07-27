@@ -80,13 +80,12 @@ This will launch the development server and open the ToDo app in your default we
 **Contributing:**
 Contributions to the ToDo App are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request. Before contributing, make sure to discuss your ideas with the maintainers and adhere to the project's coding standards.
 
-**License:**
-The ToDo App is released under the [MIT License](LICENSE), which allows for open-source contributions and usage.
+
 
 **Acknowledgments:**
 This ToDo App was developed using React.js, a powerful JavaScript library for building user interfaces. We extend our gratitude to the React.js community for their valuable contributions and support.
 
 **Contact:**
-For any inquiries or support related to the ToDo App, feel free to contact us at [email@example.com](mailto:email@example.com).
+For any inquiries or support related to the ToDo App, feel free to contact us .
 
 Thank you for using our ToDo App! Happy task managing!
