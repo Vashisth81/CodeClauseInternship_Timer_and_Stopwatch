@@ -11,14 +11,12 @@ A to-do list is just a list of things you have to-do. That means basically anyth
 - Filter tasks based on completion status (All, Active, Completed).
 - Clear all completed tasks in one click.
 - Responsive design for seamless usage on various devices.
-## Website Link : https://atinder11.github.io/Todo-List/
 
 
-  ## Demo Video :
-  
 
 
-https://github.com/atinder11/Todo-List/assets/111070211/7d65d37c-1f72-46b3-b48d-f88064627aa0
+
+
 
 
   ## Screenshot
@@ -33,18 +31,6 @@ https://github.com/atinder11/Todo-List/assets/111070211/7d65d37c-1f72-46b3-b48d-
  
 
   
-
-  3.Delete the task:
-   ![image](https://github.com/atinder11/Todo-List/assets/111070211/5582af1c-8d51-4b11-9766-8ec87d343169)
-  
-  
-  
-  
-
-
-
-
-
 
 
 
